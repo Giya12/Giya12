@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Giya12
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning new things
-- 💞️ I’m looking forward to learn new things
-  ✨ My favourite animal is a dog !
+Hello !
+I am Giya
+My hobbies are dancing singing and coding
+I love dogs
+My favourite k-pop band is Blackpink 💜💜
  
 <!---
 Giya12/Giya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
