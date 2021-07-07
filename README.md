@@ -1,6 +1,6 @@
-Hello !
-I am Giya
-My hobbies are dancing singing and coding
+Hello !💜💜
+I am Giya💜💜
+My hobbies are dancing singing and coding💜💜
 I love dogs
 My favourite k-pop band is Blackpink 💜💜
  
