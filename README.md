@@ -1,8 +1,8 @@
-Hello !💜💜
-I am Giya💜💜
-My hobbies are dancing singing and coding💜💜
-I love dogs
-My favourite k-pop band is Blackpink 💜💜
+Hello !
+I am Giya.
+My name is pronounced as 'Jiya' 
+#animal love ✨
+I love music! 🦋
  
 <!---
 Giya12/Giya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
