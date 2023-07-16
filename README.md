@@ -1,8 +1,5 @@
-Hello !
-I am Giya.
-My name is pronounced as 'Jiya' 
-#animal love ✨
-I love music! 🦋
+heyy..
+that's it lol
  
 <!---
 Giya12/Giya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
