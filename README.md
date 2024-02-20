@@ -1,5 +1,5 @@
-heyy..
-that's it lol
+..
+that's it 
  
 <!---
 Giya12/Giya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
